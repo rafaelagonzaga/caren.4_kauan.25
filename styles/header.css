@@ -1,0 +1,11 @@
+.cabecalho{
+background-color: var(--fundo-azul);
+margin:0;
+}
+.container{
+    display:flex; align-items: center;
+}
+.container_imagem{
+    width: 45px; height: 45px;
+}
+.container_titulo, .container_imagem, .container_frase{
